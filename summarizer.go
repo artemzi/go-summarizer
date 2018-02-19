@@ -1,8 +1,9 @@
-package goSummarizer
+package summarizer
 
 import (
 	"errors"
-	"goSummarizer/helpers"
+
+	"github.com/artemzi/go-summarizer/helpers"
 )
 
 // Summarizer instance, used for extracting summary from raw texts and urls
