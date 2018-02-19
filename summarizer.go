@@ -3,7 +3,7 @@ package summarizer
 import (
 	"errors"
 
-	"github.com/artemzi/go-summarizer/helpers"
+	"github.com/artemzi/summarizer/helpers"
 )
 
 // Summarizer instance, used for extracting summary from raw texts and urls
